@@ -1,4 +1,4 @@
-# P6-PascalsTriangle
+# Pascals Triangle
 
 <h3>Write a Program to print the pascals triangle<br></h3>
 
