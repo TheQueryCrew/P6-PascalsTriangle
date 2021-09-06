@@ -1,6 +1,6 @@
 // Pascals triangle using pointers
 
-/*				1 
+/*					1 
 				
 				1		1
 			
