@@ -6,7 +6,7 @@
 
 Input:
 
-```
+```javascript
 
 Enter number of rows for generating Pascal's triangle : 5
 
@@ -14,16 +14,16 @@ Enter number of rows for generating Pascal's triangle : 5
 
 Output:
 
-```
+```python
 
 1
 
-1,1
+1 1
 
-1,2,1
+1 2 1
 
-1,3,3,1
+1 3 3 1
 
-1,4,6,4,1
+1 4 6 4 1
 
 ```
